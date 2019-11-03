@@ -1,3 +1,4 @@
+// 一堆对外暴露的接口
 export { start } from './start.js';
 export { ensureJQuerySupport } from './jquery-support.js';
 export { setBootstrapMaxTime, setMountMaxTime, setUnmountMaxTime, setUnloadMaxTime } from './applications/timeouts.js';
